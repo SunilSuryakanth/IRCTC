@@ -1,0 +1,43 @@
+[
+  {
+    "train_id": "zyxs",
+    "train_no": "98765",
+    "seats": [
+      [0,0,0,0,0,0,0],
+      [0,0,0,0,0,0,0],
+      [0,0,0,0,0,0,0],
+      [0,0,0,0,0,0,0]
+    ],
+    "stations": [
+      "Hydrabad",
+      "jaipur",
+      "delhi",
+      "bangalore"
+    ],
+    "stations_time":{
+      "Hydrabad": "13:50:00",
+      "jaipur": "13:50:00",
+      "delhi": "13:50:00",
+      "bangalore": "13:50:00"
+    }
+  },
+  {
+    "train_id": "abcde",
+    "train_no": "98807",
+    "seats": [
+      [0,0,0,0,0,0,0],
+      [0,0,0,0,0,0,0],
+      [0,0,0,0,0,0,0],
+      [0,0,0,0,0,0,0],
+      [0,0,0,0,0,0,0]
+    ],
+    "stations": [
+      "bidar",
+      "gulbarga"
+    ],
+    "stations_time":{
+      "bidar": "13:50:00",
+      "gulbarga": "13:50:00"
+    }
+  }
+]
